@@ -28,6 +28,9 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+
+
+<a href="itms-services://?action=download-manifest&url=https://github.com/liangsuifengc/OCPay/blob/master/manifest.plist">点击在线安装ipa</a>
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liangsuifengc/OCPay/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
@@ -35,3 +38,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
