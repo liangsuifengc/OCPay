@@ -28,11 +28,8 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-[点击在线安装](itms-services://?action=download-manifest&url=https://github.com/liangsuifengc/OCPay/blob/master/manifest.plist)
+[点击在线安装](https://github.com/liangsuifengc/OCPay/blob/master/ipa.html)
 
-[点击在线安装](href="itms-services://?action=download-manifest&url=https://github.com/liangsuifengc/OCPay/blob/master/manifest.plist")
-
-[点击在线安装](https://github.com/liangsuifengc/OCPay/blob/master/manifest.plist")
 
 <a href="itms-services://?action=download-manifest&url=https://github.com/liangsuifengc/OCPay/blob/master/manifest.plist">点击在线安装ipa</a>
 
