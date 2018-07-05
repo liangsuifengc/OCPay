@@ -31,7 +31,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 [点击在线安装](https://github.com/liangsuifengc/OCPay/blob/master/ipa.html)
 
 
-<a href="itms-services://?action=download-manifest&url=https://github.com/liangsuifengc/OCPay/blob/master/manifest.plist">点击在线安装ipa</a>
+<a href="itms-services://?action=download-manifest&url=https://s3-ap-southeast-1.amazonaws.com/stormfives/ios/manifest.plist">点击在线安装ipa</a>
 
 
 ### Jekyll Themes
